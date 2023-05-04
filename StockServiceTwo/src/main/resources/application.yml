@@ -1,0 +1,7 @@
+server:
+  port: 8910
+
+spring:
+  application:
+    name: StockService
+

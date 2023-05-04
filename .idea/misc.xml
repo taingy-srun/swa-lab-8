@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/StockService/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServiceOne/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServiceTwo/pom.xml" />
+        <option value="$PROJECT_DIR$/StockServiceTwo/pom.xml" />
+        <option value="$PROJECT_DIR$/GatewayService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
